@@ -1,0 +1,22 @@
+/* @import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap'); */
+
+.App {
+  font-family: 'Open Sans', sans-serif;
+  display: grid;
+  place-items: center;
+  
+}
+
+.quotes ul{
+  list-style: none;
+}
+.quotes{
+  background: hsla(132, 67%, 78%, .7);
+  width: 80%;
+  padding:.3em
+}
+
+
+
+
+
