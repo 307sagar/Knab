@@ -19,7 +19,7 @@ Please include a snippet of code that shows how you've used it. \
 3. How would you track down a performance issue in production? Have you ever had to do this? \
 === I do not have to do this on a production scale for my current role. But exploring this opprtunity will be exciting and am eager to work on it. 
 
-But to dig down into the performance issues of the requests from the client, a proper log statement for each successful request either in Front End/Back end is very helpful. So that, I can trace which request go fired and after that how much time it took to fire another one. And from ther we can scale our performance.
+	But to dig down into the performance issues of the requests from the client, a proper log statement for each successful request either in Front End/Back end is very helpful. So that, I can trace which request go fired and after that how much time it took to fire another one. And from there we can scale our performance.
 
 4. What was the latest technical book you have read or tech conference you have been to? What did you
 learn? \
